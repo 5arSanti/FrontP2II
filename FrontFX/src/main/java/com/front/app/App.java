@@ -11,7 +11,7 @@ public class App extends Application {
         stageGlobal = stage;
         Scene escenaInicio = inicio.crearEscena(stage);
         stage.setScene(escenaInicio);
-        stage.setTitle("Inicio");
+        stage.setTitle("Register");
         stage.show();
     }
 
